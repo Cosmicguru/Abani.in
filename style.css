@@ -819,5 +819,17 @@ p {
         margin: 1.5%;
     }
 }
+@media only screen and (min-width: 700px) {
+    #header .nav-list ul {
+        position: initial;
+        display: block;
+        height: auto;
+        width: fit-content;
+        background-color: transparent;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+
 
 
