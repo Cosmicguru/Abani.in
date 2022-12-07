@@ -796,7 +796,7 @@ p {
         display: none;
     }
     #header .nav-list ul {
-        position: ms-page;
+        position: relative;
         display: block;
         height: auto;
         width: fit-content;
